@@ -1,5 +1,3 @@
-pocket-coast
-============
 
 # Pocket Coast iPhone app project
 * Author: mabots
@@ -13,7 +11,7 @@ pocket-coast
 * Providing relaxing nature sounds taken by mabots.
 * Adding some mechanism which won't get you bored.
 * Users can enjoy various sounds which come with frequent updates or updates could be done by server side operation.
-** The app size should be small enough.
+* However on the other hand, the app size should be small enough though.
 
 ## Screenshots
 
